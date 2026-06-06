@@ -40,6 +40,9 @@
       },
       "wat_box_tem_set": {
         "name": "Water box temperature setpoint"
+      },
+      "co_wat_out_tem_set": {
+        "name": "Cooling water outlet setpoint"
       }
     },
     "switch": {
@@ -70,6 +73,9 @@
       },
       "pow": {
         "name": "Power"
+      },
+      "co_wat_out_tem_set": {
+        "name": "Cooling water outlet setpoint"
       }
     }
   }
